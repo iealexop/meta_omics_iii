@@ -17,6 +17,3 @@ Metagenomic &amp; metatrascriptomic analysis of bacterioplanton samples
 - BWA / STAR for Mapping -> http://bio-bwa.sourceforge.net/bwa.shtml
 - SAMtools / BCFtools for post-mapping analyses
 - HTSeq for read counting -> https://htseq.readthedocs.io/en/release_0.9.1/count.html#count
-- DESeq2 for expression analyses -> https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf
-- IGV / Artemis Comparison Tool (ACT) for visualization of the genomes -> http://software.broadinstitute.org/software/igv/userguide
-
