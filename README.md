@@ -11,7 +11,7 @@ Metagenomic &amp; metatrascriptomic analysis of bacterioplanton samples
 - QUAST / MUMmerplot for assembly evaluation -> http://quast.sourceforge.net/docs/manual.html
 - Metbat for binning -> https://bitbucket.org/berkeleylab/metabat/wiki/Home
 - CheckM for binning evaluation -> https://github.com/Ecogenomics/CheckM/wiki/Quick-Start
-- Prokka / BRAKER / EggNOGmapper for annotation - https://github.com/Gaius-Augustus/BRAKER#running-braker
+- BRAKER for annotation - https://github.com/Gaius-Augustus/BRAKER#running-braker
 - Blastn for homology check -> https://www.ncbi.nlm.nih.gov/books/NBK279690/
 - Phylophlan for phylogenetic placement 
 - BWA / STAR for Mapping -> http://bio-bwa.sourceforge.net/bwa.shtml
