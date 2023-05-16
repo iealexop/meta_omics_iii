@@ -43,6 +43,7 @@ This study aims to understand the metabolic contributions from uncultivated grou
 
 ## Directory Structure
 
+```
 meta_omics_iii/
 |
 |---analyses/
@@ -61,4 +62,4 @@ meta_omics_iii/
     |---DNA_assemble/
     |---bins/
     |---annotation/
-
+```
