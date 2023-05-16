@@ -57,7 +57,7 @@ meta_omics_iii/
 |
 |---data/
     |---DNA_trimmed -> /proj/genomeanalysis2023/Genome_Analysis/3_Thrash_2017/DNA_trimmed/
-    |---RNA_untrimmed ->  /proj/genomeanalysis2023/Genome_Analysis/3_Thrash_2017/RNA_untrimmed/
+    |---RNA_untrimmed -> /proj/genomeanalysis2023/Genome_Analysis/3_Thrash_2017/RNA_untrimmed/
     |---RNA_trimmed/
     |---DNA_assemble/
     |---bins/
