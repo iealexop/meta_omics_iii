@@ -7,7 +7,7 @@ This study aims to understand the metabolic contributions from uncultivated grou
 
 ## Analysis Summary
 
-1. Quality control: Trimmed DNA sequences.
+1. Quality control: Trimmed DNA sequences and Untrimmed RNA sequences.
 2. Trimming of RNA sequences.
 3. Quality control: Trimmed RNA sequences.
 4. Assembly: Trimmed metagenomic (DNA) data into contigs.
